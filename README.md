@@ -1,4 +1,5 @@
 ## Welcome to My Project! 👋
+![randomUser](https://github.com/AliDurul/Random-User-Generator-App/assets/80897590/9ba3910e-2aa0-4b81-ad5d-6df206ae02cd)
 
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
 
